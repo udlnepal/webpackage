@@ -24,8 +24,20 @@ class Package_setup_model extends CI_Model {
     			$this->db->where('package_id',$package_id);
     			return $this->db->update('package_setup',$data);
     		}
+     }
 
-    
+     public function get_package(){
+        $this->db->select('*');
+        $query = $this->db->get('package_setup');
+        return $query->result_array();
+     }
 
-    }
+
+     public function delete_package($package_id){      
+        $this->db->where('package_id', $package_id);
+        return $this->db->delete('package_setup');
+        
+     }
+
+/*write above here*/
 }

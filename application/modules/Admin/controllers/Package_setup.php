@@ -25,20 +25,32 @@ public function add(){
 	$data['titlename']=$this->admin_model->get_logged_user();
 	$this->form_validation->set_rules('package_name','Package Name', 'required');
 	$this->form_validation->set_rules('package_features','Package Features','required');
-	$this->form_validation->set_rules('package_price','Package Price', 'required');
+	$this->form_validation->set_rules('package_offer_price','Price is required(At Least One)', 'required');
 
 	if($this->form_validation->run()===FALSE){		
 		$this->display('package_setup',$data);
 	}else{
 		$this->package_setup_model->add_package();
-		$this->display('package_setup',$data);
+		$this->session->set_flashdata('Success','Package Addedd Successfully!');
+		redirect('admin/package_setup/view');
 	}
 }
 
 public function view(){
+	$data['package_setup']=$this->package_setup_model->get_package();
 	$data['titlename']=$this->admin_model->get_logged_user();
-	$this->display('admin/test',$data);
-}	
+	$this->display('admin/view',$data);
+}
+
+public function delete(){
+	$package_id= $this->uri->segment(4);
+	if($package_id==0){
+		redirect('admin/package_setup_model');
+	}
+	$this->package_setup_model->delete_package($package_id);
+	redirect('admin/package_setup/view');
+}
+
 
 /* Write Above Here*/
 }
