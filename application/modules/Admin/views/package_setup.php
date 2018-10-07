@@ -27,7 +27,7 @@
                         <div class="card">
                             
                                 <div class="card-body">
-                                    <h4 class="card-title"><?php echo $title; ?></h4>
+                                    <h4 class="card-title">Add Package</h4>
                                     <?php if(!empty(validation_errors())){?>
                                     <div class="alert alert-danger"> <?php echo validation_errors(); ?></div>
                                    <?php }?>
