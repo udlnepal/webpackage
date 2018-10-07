@@ -25,13 +25,17 @@
                 <div class="col-lg-12">
                     <div class="col-md-8">
                         <div class="card">
-                            <form class="form-horizontal">
+                            
                                 <div class="card-body">
-                                    <h4 class="card-title">Package Setup</h4>
+                                    <h4 class="card-title">Add Package </h4>
+                                    <?php if(!empty(validation_errors())){?>
+                                    <div class="alert alert-danger"> <?php echo validation_errors(); ?></div>
+                                   <?php }?>
+                                    <?php echo form_open_multipart('admin/package_setup/add'); ?>
                                     <div class="form-group row">
                                         <label for="package_name" class="col-sm-3 text-left control-label col-form-label">Package Name</label>
                                         <div class="col-sm-9">
-                                            <input type="text" class="form-control" id="package_name" placeholder="Package Name">
+                                            <input type="text" class="form-control" id="package_name" name="package_name" placeholder="Package Name">
                                         </div>
                                     </div>
                                     <div class="form-group row">
@@ -43,13 +47,13 @@
                                     <div class="form-group row">
                                         <label for="package_price" class="col-sm-3 text-left control-label col-form-label">Package Price</label>
                                         <div class="col-sm-9">
-                                            <input type="text" class="form-control" id="package_price" placeholder="Price">
+                                            <input type="text" class="form-control" name="package_price" id="package_price" placeholder="Price">
                                         </div>
                                     </div>
                                     <div class="form-group row">
                                         <label for="package_offer_price" class="col-sm-3 text-left control-label col-form-label">Package Offer Price</label>
                                         <div class="col-sm-9">
-                                            <input type="text" class="form-control" id="package_offer_price" placeholder="Offer Price">
+                                            <input type="text" class="form-control" name="package_offer_price" id="package_offer_price" placeholder="Offer Price">
                                         </div>
                                     </div>
                                     
@@ -58,10 +62,10 @@
                                 </div>
                                 <div class="border-top">
                                     <div class="card-body text-right">
-                                        <a href="#"" type="submit" class="btn btn-primary">Submit</a>
+                                        <button type="submit" class="btn btn-primary">Submit</button>
                                     </div>
                                 </div>
-                            </form>
+                            <?php echo form_close(); ?>
                         </div>
                     </div>
                 </div>
@@ -69,3 +73,4 @@
 
 
         </div>
+       

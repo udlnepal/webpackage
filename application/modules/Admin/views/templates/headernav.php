@@ -9,7 +9,7 @@
                     <!-- ============================================================== -->
                     <!-- Logo -->
                     <!-- ============================================================== -->
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="<?php echo base_url(); ?>" target="_blank">
                         <!-- Logo icon -->
                         <b class="logo-icon p-l-10">
                             <!--You can put here icon as well // <i class="wi wi-sunset"></i> //-->
@@ -21,7 +21,8 @@
                          <!-- Logo text -->
                         <span class="logo-text">
                              <!-- dark Logo text -->
-                             <img src="<?php echo base_url(); ?>assets/images/logo-text.png" alt="homepage" class="light-logo" />
+                             <!-- <img src="<?php echo base_url(); ?>assets/images/logo-text.png" alt="homepage" class="light-logo" /> -->
+                             <h4>View Packages</h4>
                             
                         </span>
                         <!-- Logo icon -->

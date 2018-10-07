@@ -30,18 +30,21 @@ class Admin extends MX_Controller {
 	}
 
 
+public function display($view,$data){
+		$this->load->view('templates/header',$data);
+		$this->load->view('templates/headernav',$data);
+		$this->load->view('templates/sidebar',$data);
+		$this->load->view($view,$data);
+		$this->load->view('templates/footer',$data);
 
+}
 
 
 
 	public function index()
 	{
 		$data['titlename']=$this->admin_model->get_logged_user();
-		$this->load->view('templates/header');
-		$this->load->view('templates/headernav',$data);
-		$this->load->view('templates/sidebar');
-		$this->load->view('test');
-		$this->load->view('templates/footer');
+		$this->display('test',$data);
 	}
 
 	
