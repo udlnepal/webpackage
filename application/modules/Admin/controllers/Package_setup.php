@@ -23,6 +23,16 @@ public function index()
 
 public function add(){
 	$data['titlename']=$this->admin_model->get_logged_user();
+	
+
+	$package_id=$this->uri->segment(4);
+
+	if(empty($package_id)){
+		$data['title']='Add Package';
+	}else{
+		$data['title']='Edit Package';
+	}
+
 	$this->form_validation->set_rules('package_name','Package Name', 'required');
 	$this->form_validation->set_rules('package_features','Package Features','required');
 	$this->form_validation->set_rules('package_offer_price','Price is required(At Least One)', 'required');
