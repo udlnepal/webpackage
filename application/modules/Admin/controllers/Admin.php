@@ -43,4 +43,8 @@ class Admin extends MX_Controller {
 		$this->load->view('test');
 		$this->load->view('templates/footer');
 	}
+
+	
+
+
 }
