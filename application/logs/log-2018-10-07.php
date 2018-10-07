@@ -4607,3 +4607,32 @@ DEBUG - 2018-10-07 07:59:40 --> File loaded: E:\xampp\htdocs\webpackage\applicat
 DEBUG - 2018-10-07 07:59:40 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
 INFO - 2018-10-07 07:59:40 --> Final output sent to browser
 DEBUG - 2018-10-07 07:59:40 --> Total execution time: 0.7750
+INFO - 2018-10-07 08:05:43 --> Config Class Initialized
+INFO - 2018-10-07 08:05:43 --> Hooks Class Initialized
+DEBUG - 2018-10-07 08:05:43 --> UTF-8 Support Enabled
+INFO - 2018-10-07 08:05:43 --> Utf8 Class Initialized
+INFO - 2018-10-07 08:05:43 --> URI Class Initialized
+INFO - 2018-10-07 08:05:43 --> Router Class Initialized
+INFO - 2018-10-07 08:05:43 --> Output Class Initialized
+INFO - 2018-10-07 08:05:43 --> Security Class Initialized
+DEBUG - 2018-10-07 08:05:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-07 08:05:43 --> Input Class Initialized
+INFO - 2018-10-07 08:05:43 --> Language Class Initialized
+INFO - 2018-10-07 08:05:43 --> Language Class Initialized
+INFO - 2018-10-07 08:05:43 --> Config Class Initialized
+INFO - 2018-10-07 08:05:43 --> Loader Class Initialized
+INFO - 2018-10-07 08:05:43 --> Controller Class Initialized
+DEBUG - 2018-10-07 08:05:43 --> Admin MX_Controller Initialized
+INFO - 2018-10-07 08:05:43 --> Helper loaded: form_helper
+INFO - 2018-10-07 08:05:43 --> Helper loaded: url_helper
+INFO - 2018-10-07 08:05:43 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-07 08:05:43 --> Form Validation Class Initialized
+INFO - 2018-10-07 08:05:43 --> Model Class Initialized
+INFO - 2018-10-07 08:05:44 --> Database Driver Class Initialized
+DEBUG - 2018-10-07 08:05:44 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-07 08:05:44 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-07 08:05:44 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-07 08:05:44 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/test.php
+DEBUG - 2018-10-07 08:05:44 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-07 08:05:44 --> Final output sent to browser
+DEBUG - 2018-10-07 08:05:44 --> Total execution time: 0.8000
