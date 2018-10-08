@@ -1,22 +1,20 @@
 
 <section class=" main_body">
 <div class="container">
-<div class="row">
-<div class="col-lg-12">
+<!-- <div class="row"> -->
+<div class="col-lg-12 pad_fix">
  
 <div class="row justify-content-md-center">
-	<div class="row">
-		
-	</div>
+	
 	<div class="col-md-auto">
-		<div class="col-lg-12">
+		<div class="col-lg-12 pad_fix">
 			<?php if(!empty(validation_errors())){ ?>
 			<div class="col-lg-12 alert alert-danger">
 			<?php echo validation_errors(); ?>
 			</div>
 			<?php } ?>
 		</div>
-		<div class="col-lg-12">
+		<div class="col-lg-12 pad_fix">
 			<?php echo form_open_multipart('package/confirm_book'); ?>
 			<div class="img-thumbnail box-form">
 			<div class="input-group mb-3">
@@ -77,6 +75,6 @@
 	</div>
 </div>
 
-</div>
+<!-- </div> -->
 </div>
 </section>
