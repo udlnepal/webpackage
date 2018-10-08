@@ -4,12 +4,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Package extends MX_Controller {
 
 	
-		 public function __construct()
+	public function __construct()
   	{
      	parent::__construct();
 		$this->load->helper(array('form', 'url'));
 		$this->load->library(array('session', 'form_validation'));
 		$this->load->model('package_setup_model');
+		//$this->load->model('package_model');
 	}
 
 	public function index()
@@ -36,13 +37,21 @@ class Package extends MX_Controller {
 	}
 
 public function confirm_book(){
-	$this->form_validation->set_rules('name','Name', 'required');
-	$this->form_validation->set_rules('phone','Phone','required');
-	$this->form_validation->set_rules('requirements','Requirement', 'required');
-	if($this->form_validation->run()===FALSE){	
-		$this->session->set_flashdata('Error','Error Occured');
-		redirect('package/book');
 
+	$data['test']="testing";
+	$this->form_validation->set_rules('name','Name','required');
+	$this->form_validation->set_rules('phone','Phone','required');
+	$this->form_validation->set_rules('requirements','Requirements','required');
+	$data=array(
+    		'user_book_id'=>$this->input->post('pack_id'),
+    	);
+
+	if($this->form_validation->run()===FALSE){	
+		//$this->session->set_flashdata('Error','Error Occured');
+		$data['package_setup']=$this->package_setup_model->get_package();
+		$this->load->view('welcome/templates/header');
+		$this->load->view('add',$data);
+		$this->load->view('welcome/templates/footer');
 	}else{
 		$this->package_model->book_package();
 		
