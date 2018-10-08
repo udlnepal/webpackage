@@ -44,10 +44,19 @@ public function view(){
 	$this->display('admin/view',$data);
 }
 
+public function edit(){
+	$package_id=$this->uri->segment(4);
+	if($package_id==0){
+		redirect('admin/package_setup/view');
+	}
+	$this->package_setup_model->edit_package($package_id);
+	redirect('admin/package_setup/view');
+}
+
 public function delete(){
 	$package_id= $this->uri->segment(4);
 	if($package_id==0){
-		redirect('admin/package_setup_model');
+		redirect('admin/package_setup');
 	}
 	$this->package_setup_model->delete_package($package_id);
 	redirect('admin/package_setup/view');
