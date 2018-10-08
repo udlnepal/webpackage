@@ -10,7 +10,8 @@ class Package extends MX_Controller {
 		$this->load->helper(array('form', 'url'));
 		$this->load->library(array('session', 'form_validation'));
 		$this->load->model('package_setup_model');
-		//$this->load->model('package_model');
+		$this->load->model('Package/package_model');
+		//$this->model=$this->package_model;
 	}
 
 	public function index()
@@ -54,8 +55,8 @@ public function confirm_book(){
 		$this->load->view('welcome/templates/footer');
 	}else{
 		$this->package_model->book_package();
-		
-		redirect('welcome');
+		$this->session->set_flashdata('Success','Thank you for Booking We will contact you shortly.');
+		redirect('package/book');
 	}
 }
 

@@ -10,9 +10,11 @@
 	</div>
 	<div class="col-md-auto">
 		<div class="col-lg-12">
+			<?php if(!empty(validation_errors())){ ?>
 			<div class="col-lg-12 alert alert-danger">
 			<?php echo validation_errors(); ?>
-		</div>
+			</div>
+			<?php } ?>
 		</div>
 		<div class="col-lg-12">
 			<?php echo form_open_multipart('package/confirm_book'); ?>
@@ -60,7 +62,9 @@
 			</div>
 				<textarea class="form-control" name="requirements" id="requirements" ></textarea>
 			</div>
-
+			<div class="col-lg-12">
+				<h5 class="text-success"><?php echo $this->session->flashdata('Success'); ?></h5>
+			</div>
 			<div class="col-lg-12 text-right pad_fix">
 				<button type="submit"  class="btn btn-success">Send</button>
 			</div>
