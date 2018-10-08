@@ -40,14 +40,14 @@
                         </div>
                     </div>
                     <!-- Column -->
-                    <div class="col-md-6 col-lg-4 col-xlg-3">
+                    <!-- <div class="col-md-6 col-lg-4 col-xlg-3">
                         <div class="card card-hover">
                             <div class="box bg-success text-center">
                                 <h1 class="font-light text-white"><i class="mdi mdi-chart-areaspline"></i></h1>
                                 <h6 class="text-white">Charts</h6>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                      <!-- Column -->
                     <div class="col-md-6 col-lg-2 col-xlg-3">
                         <div class="card card-hover">
@@ -77,14 +77,14 @@
                     </div>
                     <!-- Column -->
                     <!-- Column -->
-                    <div class="col-md-6 col-lg-4 col-xlg-3">
+                  <!--   <div class="col-md-6 col-lg-4 col-xlg-3">
                         <div class="card card-hover">
                             <div class="box bg-danger text-center">
                                 <h1 class="font-light text-white"><i class="mdi mdi-receipt"></i></h1>
                                 <h6 class="text-white">Forms</h6>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Column -->
                     <div class="col-md-6 col-lg-2 col-xlg-3">
                         <div class="card card-hover">

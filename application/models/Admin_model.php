@@ -15,5 +15,11 @@ public function get_logged_user(){
     return $data;
 }
 
+public function get_bookings(){
+    $query=$this->db->query('SELECT b.*,s.* FROM package_book b JOIN package_setup s ON s.package_id=b.pack_id ');
+    return $query->result_array();
+
+}
+
 
 }

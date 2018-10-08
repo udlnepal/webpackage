@@ -47,6 +47,13 @@ public function display($view,$data){
 		$this->display('test',$data);
 	}
 
+
+	public function bookings()
+	{
+		$data['titlename']=$this->admin_model->get_logged_user();
+		$data['package_book']=$this->admin_model->get_bookings();
+		$this->display('bookings',$data);
+	}
 	
 
 
