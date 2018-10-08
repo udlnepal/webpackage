@@ -39,3 +39,12 @@ margin-bottom: 20px;
 h6.font-italic.font-weight-light.text-info{
 	font-size:0.75rem !important;
 }
+.wid130{
+	min-width: 130px;
+}
+.pad_fix{
+	padding:0;
+}
+.box-form{
+	padding:25px;
+}

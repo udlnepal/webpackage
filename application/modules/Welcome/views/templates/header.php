@@ -12,7 +12,7 @@
 	<h1 class="hidden">Cheapest Website Design Development In Nepal</h1>
 	<header>
 <nav class="navbar navbar-expand-lg navbar-light bg-info fixed-top text-white" >
-  <a class="navbar-brand" href="#">YupNep</a>
+  <a class="navbar-brand" href="<?php echo base_url(); ?>">YupNep</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
