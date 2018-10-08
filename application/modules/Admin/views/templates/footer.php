@@ -8,7 +8,7 @@
     <!-- ============================================================== -->
     <!-- All Jquery -->
     <!-- ============================================================== -->
-    <script src="<?php echo base_url(); ?>assets/libs/jquery/dist/jquery.min.js"></script>
+  
      <script src="<?php echo base_url();?>assets/extra-libs/ckeditor/ckeditor.js"></script>
     <!-- Bootstrap tether Core JavaScript -->
     <script src="<?php echo base_url(); ?>assets/libs/popper.js/dist/umd/popper.min.js"></script>

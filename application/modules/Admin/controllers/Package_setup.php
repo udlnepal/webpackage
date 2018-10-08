@@ -49,7 +49,7 @@ public function edit(){
 	if($package_id==0){
 		redirect('admin/package_setup/view');
 	}
-	$this->package_setup_model->edit_package($package_id);
+	$this->package_setup_model->add_package($package_id);
 	redirect('admin/package_setup/view');
 }
 

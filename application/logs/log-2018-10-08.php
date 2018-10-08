@@ -14155,3 +14155,1406 @@ DEBUG - 2018-10-08 13:08:08 --> File loaded: E:\xampp\htdocs\webpackage\applicat
 DEBUG - 2018-10-08 13:08:08 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
 INFO - 2018-10-08 13:08:08 --> Final output sent to browser
 DEBUG - 2018-10-08 13:08:08 --> Total execution time: 1.1171
+INFO - 2018-10-08 13:21:32 --> Config Class Initialized
+INFO - 2018-10-08 13:21:32 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:21:32 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:21:32 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:21:33 --> URI Class Initialized
+INFO - 2018-10-08 13:21:33 --> Router Class Initialized
+INFO - 2018-10-08 13:21:33 --> Output Class Initialized
+INFO - 2018-10-08 13:21:33 --> Security Class Initialized
+DEBUG - 2018-10-08 13:21:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:21:33 --> Input Class Initialized
+INFO - 2018-10-08 13:21:33 --> Language Class Initialized
+INFO - 2018-10-08 13:21:33 --> Language Class Initialized
+INFO - 2018-10-08 13:21:33 --> Config Class Initialized
+INFO - 2018-10-08 13:21:33 --> Loader Class Initialized
+INFO - 2018-10-08 13:21:33 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:21:33 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:21:33 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:21:33 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:21:33 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:21:33 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:21:33 --> Model Class Initialized
+INFO - 2018-10-08 13:21:33 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:21:33 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:21:33 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:21:33 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:21:33 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:21:33 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:21:33 --> Final output sent to browser
+DEBUG - 2018-10-08 13:21:34 --> Total execution time: 1.1121
+INFO - 2018-10-08 13:21:48 --> Config Class Initialized
+INFO - 2018-10-08 13:21:48 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:21:48 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:21:48 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:21:48 --> URI Class Initialized
+INFO - 2018-10-08 13:21:48 --> Router Class Initialized
+INFO - 2018-10-08 13:21:48 --> Output Class Initialized
+INFO - 2018-10-08 13:21:48 --> Security Class Initialized
+DEBUG - 2018-10-08 13:21:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:21:48 --> Input Class Initialized
+INFO - 2018-10-08 13:21:48 --> Language Class Initialized
+ERROR - 2018-10-08 13:21:48 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:24:00 --> Config Class Initialized
+INFO - 2018-10-08 13:24:00 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:24:00 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:24:00 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:24:00 --> URI Class Initialized
+INFO - 2018-10-08 13:24:00 --> Router Class Initialized
+INFO - 2018-10-08 13:24:00 --> Output Class Initialized
+INFO - 2018-10-08 13:24:00 --> Security Class Initialized
+DEBUG - 2018-10-08 13:24:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:24:00 --> Input Class Initialized
+INFO - 2018-10-08 13:24:00 --> Language Class Initialized
+INFO - 2018-10-08 13:24:00 --> Language Class Initialized
+INFO - 2018-10-08 13:24:00 --> Config Class Initialized
+INFO - 2018-10-08 13:24:00 --> Loader Class Initialized
+INFO - 2018-10-08 13:24:00 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:24:00 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:24:00 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:24:00 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:24:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:24:01 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:24:01 --> Model Class Initialized
+INFO - 2018-10-08 13:24:01 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:24:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:24:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:24:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:24:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:24:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:24:01 --> Final output sent to browser
+DEBUG - 2018-10-08 13:24:01 --> Total execution time: 1.0951
+INFO - 2018-10-08 13:24:03 --> Config Class Initialized
+INFO - 2018-10-08 13:24:03 --> Config Class Initialized
+INFO - 2018-10-08 13:24:03 --> Hooks Class Initialized
+INFO - 2018-10-08 13:24:03 --> Hooks Class Initialized
+INFO - 2018-10-08 13:24:03 --> Config Class Initialized
+INFO - 2018-10-08 13:24:03 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:24:03 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:24:03 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:24:03 --> Utf8 Class Initialized
+DEBUG - 2018-10-08 13:24:03 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:24:03 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:24:03 --> URI Class Initialized
+INFO - 2018-10-08 13:24:03 --> URI Class Initialized
+INFO - 2018-10-08 13:24:03 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:24:03 --> Router Class Initialized
+INFO - 2018-10-08 13:24:03 --> Router Class Initialized
+INFO - 2018-10-08 13:24:03 --> Output Class Initialized
+INFO - 2018-10-08 13:24:03 --> Security Class Initialized
+DEBUG - 2018-10-08 13:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:24:04 --> Input Class Initialized
+INFO - 2018-10-08 13:24:04 --> Language Class Initialized
+INFO - 2018-10-08 13:24:04 --> Output Class Initialized
+ERROR - 2018-10-08 13:24:04 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:24:04 --> Security Class Initialized
+INFO - 2018-10-08 13:24:04 --> URI Class Initialized
+DEBUG - 2018-10-08 13:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:24:04 --> Input Class Initialized
+INFO - 2018-10-08 13:24:04 --> Language Class Initialized
+ERROR - 2018-10-08 13:24:04 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:24:05 --> Router Class Initialized
+INFO - 2018-10-08 13:24:05 --> Output Class Initialized
+INFO - 2018-10-08 13:24:05 --> Security Class Initialized
+DEBUG - 2018-10-08 13:24:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:24:05 --> Input Class Initialized
+INFO - 2018-10-08 13:24:05 --> Language Class Initialized
+ERROR - 2018-10-08 13:24:05 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:25:49 --> Config Class Initialized
+INFO - 2018-10-08 13:25:49 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:25:49 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:25:49 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:25:49 --> URI Class Initialized
+INFO - 2018-10-08 13:25:49 --> Router Class Initialized
+INFO - 2018-10-08 13:25:49 --> Output Class Initialized
+INFO - 2018-10-08 13:25:49 --> Security Class Initialized
+DEBUG - 2018-10-08 13:25:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:25:50 --> Input Class Initialized
+INFO - 2018-10-08 13:25:50 --> Language Class Initialized
+INFO - 2018-10-08 13:25:50 --> Language Class Initialized
+INFO - 2018-10-08 13:25:50 --> Config Class Initialized
+INFO - 2018-10-08 13:25:50 --> Loader Class Initialized
+INFO - 2018-10-08 13:25:50 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:25:50 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:25:50 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:25:50 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:25:50 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:25:50 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:25:50 --> Model Class Initialized
+INFO - 2018-10-08 13:25:50 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:25:50 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:25:50 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:25:50 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:25:50 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:25:50 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:25:50 --> Final output sent to browser
+DEBUG - 2018-10-08 13:25:50 --> Total execution time: 1.1301
+INFO - 2018-10-08 13:25:52 --> Config Class Initialized
+INFO - 2018-10-08 13:25:52 --> Config Class Initialized
+INFO - 2018-10-08 13:25:52 --> Config Class Initialized
+INFO - 2018-10-08 13:25:52 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:25:53 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:25:53 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:25:53 --> URI Class Initialized
+INFO - 2018-10-08 13:25:53 --> Router Class Initialized
+INFO - 2018-10-08 13:25:54 --> Output Class Initialized
+INFO - 2018-10-08 13:25:54 --> Security Class Initialized
+DEBUG - 2018-10-08 13:25:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:25:54 --> Input Class Initialized
+INFO - 2018-10-08 13:25:54 --> Language Class Initialized
+ERROR - 2018-10-08 13:25:54 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:25:54 --> Hooks Class Initialized
+INFO - 2018-10-08 13:25:54 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:25:54 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:25:54 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:25:54 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:25:54 --> URI Class Initialized
+INFO - 2018-10-08 13:25:54 --> Router Class Initialized
+INFO - 2018-10-08 13:25:55 --> Output Class Initialized
+INFO - 2018-10-08 13:25:55 --> Security Class Initialized
+DEBUG - 2018-10-08 13:25:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:25:55 --> Input Class Initialized
+INFO - 2018-10-08 13:25:55 --> Language Class Initialized
+INFO - 2018-10-08 13:25:55 --> Utf8 Class Initialized
+ERROR - 2018-10-08 13:25:55 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:25:55 --> URI Class Initialized
+INFO - 2018-10-08 13:25:55 --> Router Class Initialized
+INFO - 2018-10-08 13:25:55 --> Output Class Initialized
+INFO - 2018-10-08 13:25:55 --> Security Class Initialized
+DEBUG - 2018-10-08 13:25:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:25:55 --> Input Class Initialized
+INFO - 2018-10-08 13:25:55 --> Language Class Initialized
+ERROR - 2018-10-08 13:25:55 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:26:21 --> Config Class Initialized
+INFO - 2018-10-08 13:26:21 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:26:21 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:26:21 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:26:21 --> URI Class Initialized
+INFO - 2018-10-08 13:26:21 --> Router Class Initialized
+INFO - 2018-10-08 13:26:21 --> Output Class Initialized
+INFO - 2018-10-08 13:26:21 --> Security Class Initialized
+DEBUG - 2018-10-08 13:26:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:26:21 --> Input Class Initialized
+INFO - 2018-10-08 13:26:21 --> Language Class Initialized
+INFO - 2018-10-08 13:26:21 --> Language Class Initialized
+INFO - 2018-10-08 13:26:21 --> Config Class Initialized
+INFO - 2018-10-08 13:26:21 --> Loader Class Initialized
+INFO - 2018-10-08 13:26:21 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:26:21 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:26:22 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:26:22 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:26:22 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:26:22 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:26:22 --> Model Class Initialized
+INFO - 2018-10-08 13:26:22 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:26:22 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:26:22 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:26:22 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:26:22 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:26:22 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:26:22 --> Final output sent to browser
+DEBUG - 2018-10-08 13:26:22 --> Total execution time: 1.1191
+INFO - 2018-10-08 13:26:24 --> Config Class Initialized
+INFO - 2018-10-08 13:26:24 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:26:24 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:26:24 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:26:24 --> URI Class Initialized
+INFO - 2018-10-08 13:26:24 --> Router Class Initialized
+INFO - 2018-10-08 13:26:24 --> Output Class Initialized
+INFO - 2018-10-08 13:26:24 --> Security Class Initialized
+DEBUG - 2018-10-08 13:26:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:26:25 --> Config Class Initialized
+INFO - 2018-10-08 13:26:25 --> Config Class Initialized
+INFO - 2018-10-08 13:26:25 --> Hooks Class Initialized
+INFO - 2018-10-08 13:26:25 --> Input Class Initialized
+INFO - 2018-10-08 13:26:25 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:26:25 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:26:25 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:26:26 --> URI Class Initialized
+INFO - 2018-10-08 13:26:26 --> Router Class Initialized
+INFO - 2018-10-08 13:26:26 --> Output Class Initialized
+INFO - 2018-10-08 13:26:26 --> Security Class Initialized
+DEBUG - 2018-10-08 13:26:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:26:26 --> Input Class Initialized
+INFO - 2018-10-08 13:26:26 --> Language Class Initialized
+DEBUG - 2018-10-08 13:26:26 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:26:26 --> Language Class Initialized
+INFO - 2018-10-08 13:26:26 --> Utf8 Class Initialized
+ERROR - 2018-10-08 13:26:26 --> 404 Page Not Found: /index
+ERROR - 2018-10-08 13:26:26 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:26:26 --> URI Class Initialized
+INFO - 2018-10-08 13:26:26 --> Router Class Initialized
+INFO - 2018-10-08 13:26:26 --> Output Class Initialized
+INFO - 2018-10-08 13:26:26 --> Security Class Initialized
+DEBUG - 2018-10-08 13:26:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:26:26 --> Input Class Initialized
+INFO - 2018-10-08 13:26:26 --> Language Class Initialized
+ERROR - 2018-10-08 13:26:26 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:27:11 --> Config Class Initialized
+INFO - 2018-10-08 13:27:11 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:27:11 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:27:11 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:27:11 --> URI Class Initialized
+INFO - 2018-10-08 13:27:11 --> Router Class Initialized
+INFO - 2018-10-08 13:27:11 --> Output Class Initialized
+INFO - 2018-10-08 13:27:11 --> Security Class Initialized
+DEBUG - 2018-10-08 13:27:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:27:11 --> Input Class Initialized
+INFO - 2018-10-08 13:27:12 --> Language Class Initialized
+INFO - 2018-10-08 13:27:12 --> Language Class Initialized
+INFO - 2018-10-08 13:27:12 --> Config Class Initialized
+INFO - 2018-10-08 13:27:12 --> Loader Class Initialized
+INFO - 2018-10-08 13:27:12 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:27:12 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:27:12 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:27:12 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:27:12 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:27:12 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:27:12 --> Model Class Initialized
+INFO - 2018-10-08 13:27:12 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:27:12 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:27:12 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:27:12 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:27:12 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:27:12 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:27:12 --> Final output sent to browser
+DEBUG - 2018-10-08 13:27:12 --> Total execution time: 1.0951
+INFO - 2018-10-08 13:27:14 --> Config Class Initialized
+INFO - 2018-10-08 13:27:14 --> Config Class Initialized
+INFO - 2018-10-08 13:27:14 --> Config Class Initialized
+INFO - 2018-10-08 13:27:14 --> Hooks Class Initialized
+INFO - 2018-10-08 13:27:14 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:27:14 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:27:14 --> Hooks Class Initialized
+INFO - 2018-10-08 13:27:15 --> Utf8 Class Initialized
+DEBUG - 2018-10-08 13:27:15 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:27:15 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:27:15 --> URI Class Initialized
+INFO - 2018-10-08 13:27:15 --> Router Class Initialized
+INFO - 2018-10-08 13:27:15 --> Output Class Initialized
+INFO - 2018-10-08 13:27:15 --> Security Class Initialized
+DEBUG - 2018-10-08 13:27:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:27:16 --> Input Class Initialized
+INFO - 2018-10-08 13:27:16 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:27:16 --> Language Class Initialized
+INFO - 2018-10-08 13:27:16 --> Utf8 Class Initialized
+ERROR - 2018-10-08 13:27:16 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:27:16 --> URI Class Initialized
+INFO - 2018-10-08 13:27:16 --> URI Class Initialized
+INFO - 2018-10-08 13:27:16 --> Router Class Initialized
+INFO - 2018-10-08 13:27:16 --> Router Class Initialized
+INFO - 2018-10-08 13:27:16 --> Output Class Initialized
+INFO - 2018-10-08 13:27:16 --> Output Class Initialized
+INFO - 2018-10-08 13:27:16 --> Security Class Initialized
+INFO - 2018-10-08 13:27:16 --> Security Class Initialized
+DEBUG - 2018-10-08 13:27:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-10-08 13:27:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:27:16 --> Input Class Initialized
+INFO - 2018-10-08 13:27:16 --> Input Class Initialized
+INFO - 2018-10-08 13:27:16 --> Language Class Initialized
+INFO - 2018-10-08 13:27:16 --> Language Class Initialized
+ERROR - 2018-10-08 13:27:16 --> 404 Page Not Found: /index
+ERROR - 2018-10-08 13:27:16 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:27:40 --> Config Class Initialized
+INFO - 2018-10-08 13:27:40 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:27:40 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:27:40 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:27:40 --> URI Class Initialized
+INFO - 2018-10-08 13:27:40 --> Router Class Initialized
+INFO - 2018-10-08 13:27:40 --> Output Class Initialized
+INFO - 2018-10-08 13:27:40 --> Security Class Initialized
+DEBUG - 2018-10-08 13:27:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:27:40 --> Input Class Initialized
+INFO - 2018-10-08 13:27:40 --> Language Class Initialized
+INFO - 2018-10-08 13:27:40 --> Language Class Initialized
+INFO - 2018-10-08 13:27:40 --> Config Class Initialized
+INFO - 2018-10-08 13:27:40 --> Loader Class Initialized
+INFO - 2018-10-08 13:27:40 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:27:41 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:27:41 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:27:41 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:27:41 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:27:41 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:27:41 --> Model Class Initialized
+INFO - 2018-10-08 13:27:41 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:27:41 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:27:41 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:27:41 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:27:41 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:27:41 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:27:41 --> Final output sent to browser
+DEBUG - 2018-10-08 13:27:41 --> Total execution time: 1.1411
+INFO - 2018-10-08 13:27:43 --> Config Class Initialized
+INFO - 2018-10-08 13:27:43 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:27:43 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:27:43 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:27:43 --> URI Class Initialized
+INFO - 2018-10-08 13:27:43 --> Router Class Initialized
+INFO - 2018-10-08 13:27:43 --> Config Class Initialized
+INFO - 2018-10-08 13:27:43 --> Config Class Initialized
+INFO - 2018-10-08 13:27:43 --> Hooks Class Initialized
+INFO - 2018-10-08 13:27:43 --> Hooks Class Initialized
+INFO - 2018-10-08 13:27:43 --> Output Class Initialized
+INFO - 2018-10-08 13:27:43 --> Security Class Initialized
+DEBUG - 2018-10-08 13:27:43 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:27:43 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:27:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:27:44 --> Input Class Initialized
+INFO - 2018-10-08 13:27:44 --> Language Class Initialized
+ERROR - 2018-10-08 13:27:44 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:27:44 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:27:44 --> URI Class Initialized
+INFO - 2018-10-08 13:27:44 --> Router Class Initialized
+INFO - 2018-10-08 13:27:45 --> Output Class Initialized
+INFO - 2018-10-08 13:27:45 --> Security Class Initialized
+INFO - 2018-10-08 13:27:45 --> Utf8 Class Initialized
+DEBUG - 2018-10-08 13:27:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:27:45 --> Input Class Initialized
+INFO - 2018-10-08 13:27:45 --> URI Class Initialized
+INFO - 2018-10-08 13:27:45 --> Language Class Initialized
+INFO - 2018-10-08 13:27:45 --> Router Class Initialized
+ERROR - 2018-10-08 13:27:45 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:27:45 --> Output Class Initialized
+INFO - 2018-10-08 13:27:45 --> Security Class Initialized
+DEBUG - 2018-10-08 13:27:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:27:45 --> Input Class Initialized
+INFO - 2018-10-08 13:27:45 --> Language Class Initialized
+ERROR - 2018-10-08 13:27:45 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:28:52 --> Config Class Initialized
+INFO - 2018-10-08 13:28:52 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:28:52 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:28:52 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:28:52 --> URI Class Initialized
+INFO - 2018-10-08 13:28:52 --> Router Class Initialized
+INFO - 2018-10-08 13:28:52 --> Output Class Initialized
+INFO - 2018-10-08 13:28:52 --> Security Class Initialized
+DEBUG - 2018-10-08 13:28:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:28:52 --> Input Class Initialized
+INFO - 2018-10-08 13:28:52 --> Language Class Initialized
+INFO - 2018-10-08 13:28:52 --> Language Class Initialized
+INFO - 2018-10-08 13:28:52 --> Config Class Initialized
+INFO - 2018-10-08 13:28:52 --> Loader Class Initialized
+INFO - 2018-10-08 13:28:52 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:28:52 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:28:52 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:28:52 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:28:52 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:28:53 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:28:53 --> Model Class Initialized
+INFO - 2018-10-08 13:28:53 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:28:53 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:28:53 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:28:53 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:28:53 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:28:53 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:28:53 --> Final output sent to browser
+DEBUG - 2018-10-08 13:28:53 --> Total execution time: 1.1441
+INFO - 2018-10-08 13:28:54 --> Config Class Initialized
+INFO - 2018-10-08 13:28:55 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:28:55 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:28:55 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:28:55 --> URI Class Initialized
+INFO - 2018-10-08 13:28:55 --> Config Class Initialized
+INFO - 2018-10-08 13:28:55 --> Config Class Initialized
+INFO - 2018-10-08 13:28:55 --> Hooks Class Initialized
+INFO - 2018-10-08 13:28:55 --> Hooks Class Initialized
+INFO - 2018-10-08 13:28:55 --> Router Class Initialized
+DEBUG - 2018-10-08 13:28:55 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:28:55 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:28:55 --> URI Class Initialized
+INFO - 2018-10-08 13:28:56 --> Router Class Initialized
+INFO - 2018-10-08 13:28:56 --> Output Class Initialized
+INFO - 2018-10-08 13:28:56 --> Security Class Initialized
+DEBUG - 2018-10-08 13:28:56 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:28:56 --> Output Class Initialized
+DEBUG - 2018-10-08 13:28:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:28:56 --> Input Class Initialized
+INFO - 2018-10-08 13:28:56 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:28:56 --> Security Class Initialized
+INFO - 2018-10-08 13:28:56 --> Language Class Initialized
+INFO - 2018-10-08 13:28:56 --> URI Class Initialized
+DEBUG - 2018-10-08 13:28:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-10-08 13:28:56 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:28:56 --> Router Class Initialized
+INFO - 2018-10-08 13:28:56 --> Input Class Initialized
+INFO - 2018-10-08 13:28:56 --> Language Class Initialized
+INFO - 2018-10-08 13:28:56 --> Output Class Initialized
+ERROR - 2018-10-08 13:28:56 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:28:56 --> Security Class Initialized
+DEBUG - 2018-10-08 13:28:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:28:56 --> Input Class Initialized
+INFO - 2018-10-08 13:28:56 --> Language Class Initialized
+ERROR - 2018-10-08 13:28:56 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:29:46 --> Config Class Initialized
+INFO - 2018-10-08 13:29:46 --> Config Class Initialized
+INFO - 2018-10-08 13:29:46 --> Hooks Class Initialized
+INFO - 2018-10-08 13:29:46 --> Config Class Initialized
+INFO - 2018-10-08 13:29:46 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:29:46 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:29:46 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:29:46 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:29:46 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:29:46 --> URI Class Initialized
+INFO - 2018-10-08 13:29:46 --> Router Class Initialized
+INFO - 2018-10-08 13:29:46 --> Output Class Initialized
+INFO - 2018-10-08 13:29:46 --> Security Class Initialized
+DEBUG - 2018-10-08 13:29:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:29:46 --> Input Class Initialized
+INFO - 2018-10-08 13:29:46 --> Language Class Initialized
+INFO - 2018-10-08 13:29:46 --> Utf8 Class Initialized
+ERROR - 2018-10-08 13:29:46 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:29:46 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:29:46 --> URI Class Initialized
+INFO - 2018-10-08 13:29:46 --> Router Class Initialized
+INFO - 2018-10-08 13:29:46 --> Output Class Initialized
+INFO - 2018-10-08 13:29:46 --> Security Class Initialized
+DEBUG - 2018-10-08 13:29:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:29:47 --> Input Class Initialized
+INFO - 2018-10-08 13:29:47 --> Language Class Initialized
+ERROR - 2018-10-08 13:29:47 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:29:47 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:29:47 --> URI Class Initialized
+INFO - 2018-10-08 13:29:47 --> Router Class Initialized
+INFO - 2018-10-08 13:29:47 --> Output Class Initialized
+INFO - 2018-10-08 13:29:47 --> Security Class Initialized
+DEBUG - 2018-10-08 13:29:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:29:47 --> Input Class Initialized
+INFO - 2018-10-08 13:29:47 --> Language Class Initialized
+ERROR - 2018-10-08 13:29:47 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:30:12 --> Config Class Initialized
+INFO - 2018-10-08 13:30:12 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:30:12 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:30:12 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:30:12 --> URI Class Initialized
+INFO - 2018-10-08 13:30:12 --> Router Class Initialized
+INFO - 2018-10-08 13:30:12 --> Output Class Initialized
+INFO - 2018-10-08 13:30:12 --> Security Class Initialized
+DEBUG - 2018-10-08 13:30:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:30:12 --> Input Class Initialized
+INFO - 2018-10-08 13:30:12 --> Language Class Initialized
+INFO - 2018-10-08 13:30:12 --> Language Class Initialized
+INFO - 2018-10-08 13:30:12 --> Config Class Initialized
+INFO - 2018-10-08 13:30:12 --> Loader Class Initialized
+INFO - 2018-10-08 13:30:12 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:30:12 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:30:13 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:30:13 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:30:13 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:30:13 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:30:13 --> Model Class Initialized
+INFO - 2018-10-08 13:30:13 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:30:13 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:30:13 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:30:13 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:30:13 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:30:13 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:30:13 --> Final output sent to browser
+DEBUG - 2018-10-08 13:30:13 --> Total execution time: 1.2851
+INFO - 2018-10-08 13:30:15 --> Config Class Initialized
+INFO - 2018-10-08 13:30:15 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:30:15 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:30:15 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:30:15 --> URI Class Initialized
+INFO - 2018-10-08 13:30:16 --> Config Class Initialized
+INFO - 2018-10-08 13:30:16 --> Hooks Class Initialized
+INFO - 2018-10-08 13:30:16 --> Config Class Initialized
+INFO - 2018-10-08 13:30:16 --> Router Class Initialized
+DEBUG - 2018-10-08 13:30:16 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:30:16 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:30:16 --> Output Class Initialized
+INFO - 2018-10-08 13:30:16 --> Hooks Class Initialized
+INFO - 2018-10-08 13:30:16 --> URI Class Initialized
+INFO - 2018-10-08 13:30:16 --> Router Class Initialized
+INFO - 2018-10-08 13:30:17 --> Output Class Initialized
+INFO - 2018-10-08 13:30:17 --> Security Class Initialized
+DEBUG - 2018-10-08 13:30:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:30:17 --> Input Class Initialized
+INFO - 2018-10-08 13:30:17 --> Language Class Initialized
+ERROR - 2018-10-08 13:30:17 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:30:17 --> Security Class Initialized
+DEBUG - 2018-10-08 13:30:18 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:30:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:30:18 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:30:18 --> URI Class Initialized
+INFO - 2018-10-08 13:30:18 --> Input Class Initialized
+INFO - 2018-10-08 13:30:18 --> Router Class Initialized
+INFO - 2018-10-08 13:30:18 --> Output Class Initialized
+INFO - 2018-10-08 13:30:18 --> Language Class Initialized
+INFO - 2018-10-08 13:30:18 --> Security Class Initialized
+DEBUG - 2018-10-08 13:30:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-10-08 13:30:18 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:30:18 --> Input Class Initialized
+INFO - 2018-10-08 13:30:18 --> Language Class Initialized
+ERROR - 2018-10-08 13:30:18 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:30:42 --> Config Class Initialized
+INFO - 2018-10-08 13:30:42 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:30:42 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:30:42 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:30:42 --> URI Class Initialized
+INFO - 2018-10-08 13:30:42 --> Router Class Initialized
+INFO - 2018-10-08 13:30:42 --> Output Class Initialized
+INFO - 2018-10-08 13:30:42 --> Security Class Initialized
+DEBUG - 2018-10-08 13:30:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:30:42 --> Input Class Initialized
+INFO - 2018-10-08 13:30:42 --> Language Class Initialized
+INFO - 2018-10-08 13:30:42 --> Language Class Initialized
+INFO - 2018-10-08 13:30:42 --> Config Class Initialized
+INFO - 2018-10-08 13:30:42 --> Loader Class Initialized
+INFO - 2018-10-08 13:30:42 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:30:42 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:30:42 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:30:42 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:30:42 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:30:42 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:30:42 --> Model Class Initialized
+INFO - 2018-10-08 13:30:42 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:30:42 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:30:42 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:30:43 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:30:43 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:30:43 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:30:43 --> Final output sent to browser
+DEBUG - 2018-10-08 13:30:43 --> Total execution time: 1.1051
+INFO - 2018-10-08 13:31:17 --> Config Class Initialized
+INFO - 2018-10-08 13:31:17 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:31:17 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:31:17 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:31:17 --> URI Class Initialized
+INFO - 2018-10-08 13:31:17 --> Router Class Initialized
+INFO - 2018-10-08 13:31:17 --> Output Class Initialized
+INFO - 2018-10-08 13:31:17 --> Security Class Initialized
+DEBUG - 2018-10-08 13:31:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:31:18 --> Input Class Initialized
+INFO - 2018-10-08 13:31:18 --> Language Class Initialized
+INFO - 2018-10-08 13:31:18 --> Language Class Initialized
+INFO - 2018-10-08 13:31:18 --> Config Class Initialized
+INFO - 2018-10-08 13:31:18 --> Loader Class Initialized
+INFO - 2018-10-08 13:31:18 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:31:18 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:31:18 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:31:18 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:31:18 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:31:18 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:31:18 --> Model Class Initialized
+INFO - 2018-10-08 13:31:18 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:31:18 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:31:18 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:31:18 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:31:18 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:31:18 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:31:18 --> Final output sent to browser
+DEBUG - 2018-10-08 13:31:18 --> Total execution time: 1.1171
+INFO - 2018-10-08 13:32:03 --> Config Class Initialized
+INFO - 2018-10-08 13:32:03 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:32:03 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:32:03 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:32:03 --> URI Class Initialized
+INFO - 2018-10-08 13:32:03 --> Router Class Initialized
+INFO - 2018-10-08 13:32:03 --> Output Class Initialized
+INFO - 2018-10-08 13:32:03 --> Security Class Initialized
+DEBUG - 2018-10-08 13:32:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:32:03 --> Input Class Initialized
+INFO - 2018-10-08 13:32:03 --> Language Class Initialized
+ERROR - 2018-10-08 13:32:03 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:33:34 --> Config Class Initialized
+INFO - 2018-10-08 13:33:34 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:33:34 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:33:35 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:33:35 --> URI Class Initialized
+INFO - 2018-10-08 13:33:35 --> Router Class Initialized
+INFO - 2018-10-08 13:33:35 --> Output Class Initialized
+INFO - 2018-10-08 13:33:35 --> Security Class Initialized
+DEBUG - 2018-10-08 13:33:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:33:35 --> Input Class Initialized
+INFO - 2018-10-08 13:33:35 --> Language Class Initialized
+INFO - 2018-10-08 13:33:35 --> Language Class Initialized
+INFO - 2018-10-08 13:33:35 --> Config Class Initialized
+INFO - 2018-10-08 13:33:35 --> Loader Class Initialized
+INFO - 2018-10-08 13:33:35 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:33:35 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:33:35 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:33:35 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:33:35 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:33:35 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:33:35 --> Model Class Initialized
+INFO - 2018-10-08 13:33:35 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:33:35 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:33:35 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:33:35 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:33:35 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:33:35 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:33:36 --> Final output sent to browser
+DEBUG - 2018-10-08 13:33:36 --> Total execution time: 1.1491
+INFO - 2018-10-08 13:33:37 --> Config Class Initialized
+INFO - 2018-10-08 13:33:38 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:33:38 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:33:38 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:33:38 --> URI Class Initialized
+INFO - 2018-10-08 13:33:38 --> Config Class Initialized
+INFO - 2018-10-08 13:33:38 --> Config Class Initialized
+INFO - 2018-10-08 13:33:38 --> Hooks Class Initialized
+INFO - 2018-10-08 13:33:38 --> Hooks Class Initialized
+INFO - 2018-10-08 13:33:38 --> Router Class Initialized
+INFO - 2018-10-08 13:33:38 --> Output Class Initialized
+DEBUG - 2018-10-08 13:33:38 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:33:38 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:33:38 --> Security Class Initialized
+DEBUG - 2018-10-08 13:33:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:33:39 --> Input Class Initialized
+INFO - 2018-10-08 13:33:39 --> Language Class Initialized
+ERROR - 2018-10-08 13:33:39 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:33:39 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:33:39 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:33:39 --> URI Class Initialized
+INFO - 2018-10-08 13:33:39 --> Router Class Initialized
+INFO - 2018-10-08 13:33:39 --> Output Class Initialized
+INFO - 2018-10-08 13:33:39 --> Security Class Initialized
+DEBUG - 2018-10-08 13:33:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:33:39 --> Input Class Initialized
+INFO - 2018-10-08 13:33:40 --> Language Class Initialized
+ERROR - 2018-10-08 13:33:40 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:33:40 --> URI Class Initialized
+INFO - 2018-10-08 13:33:40 --> Router Class Initialized
+INFO - 2018-10-08 13:33:40 --> Output Class Initialized
+INFO - 2018-10-08 13:33:40 --> Security Class Initialized
+DEBUG - 2018-10-08 13:33:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:33:40 --> Input Class Initialized
+INFO - 2018-10-08 13:33:40 --> Language Class Initialized
+ERROR - 2018-10-08 13:33:40 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:34:42 --> Config Class Initialized
+INFO - 2018-10-08 13:34:42 --> Config Class Initialized
+INFO - 2018-10-08 13:34:43 --> Config Class Initialized
+INFO - 2018-10-08 13:34:43 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:34:43 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:34:43 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:34:43 --> URI Class Initialized
+INFO - 2018-10-08 13:34:43 --> Router Class Initialized
+INFO - 2018-10-08 13:34:43 --> Output Class Initialized
+INFO - 2018-10-08 13:34:43 --> Security Class Initialized
+DEBUG - 2018-10-08 13:34:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:34:43 --> Input Class Initialized
+INFO - 2018-10-08 13:34:43 --> Language Class Initialized
+INFO - 2018-10-08 13:34:43 --> Hooks Class Initialized
+INFO - 2018-10-08 13:34:43 --> Hooks Class Initialized
+ERROR - 2018-10-08 13:34:43 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:34:43 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:34:43 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:34:43 --> URI Class Initialized
+INFO - 2018-10-08 13:34:43 --> Router Class Initialized
+INFO - 2018-10-08 13:34:43 --> Output Class Initialized
+INFO - 2018-10-08 13:34:44 --> Security Class Initialized
+DEBUG - 2018-10-08 13:34:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:34:44 --> Input Class Initialized
+INFO - 2018-10-08 13:34:44 --> Language Class Initialized
+ERROR - 2018-10-08 13:34:44 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:34:44 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:34:44 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:34:44 --> URI Class Initialized
+INFO - 2018-10-08 13:34:44 --> Router Class Initialized
+INFO - 2018-10-08 13:34:44 --> Output Class Initialized
+INFO - 2018-10-08 13:34:44 --> Security Class Initialized
+DEBUG - 2018-10-08 13:34:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:34:44 --> Input Class Initialized
+INFO - 2018-10-08 13:34:44 --> Language Class Initialized
+ERROR - 2018-10-08 13:34:44 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:34:55 --> Config Class Initialized
+INFO - 2018-10-08 13:34:55 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:34:55 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:34:55 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:34:55 --> URI Class Initialized
+INFO - 2018-10-08 13:34:55 --> Router Class Initialized
+INFO - 2018-10-08 13:34:55 --> Output Class Initialized
+INFO - 2018-10-08 13:34:55 --> Security Class Initialized
+DEBUG - 2018-10-08 13:34:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:34:55 --> Input Class Initialized
+INFO - 2018-10-08 13:34:55 --> Language Class Initialized
+INFO - 2018-10-08 13:34:55 --> Language Class Initialized
+INFO - 2018-10-08 13:34:55 --> Config Class Initialized
+INFO - 2018-10-08 13:34:55 --> Loader Class Initialized
+INFO - 2018-10-08 13:34:55 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:34:55 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:34:55 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:34:55 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:34:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:34:56 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:34:56 --> Model Class Initialized
+INFO - 2018-10-08 13:34:56 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:34:56 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:34:56 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:34:56 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:34:56 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:34:56 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:34:56 --> Final output sent to browser
+DEBUG - 2018-10-08 13:34:56 --> Total execution time: 1.2331
+INFO - 2018-10-08 13:34:57 --> Config Class Initialized
+INFO - 2018-10-08 13:34:57 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:34:58 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:34:58 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:34:58 --> URI Class Initialized
+INFO - 2018-10-08 13:34:58 --> Router Class Initialized
+INFO - 2018-10-08 13:34:58 --> Config Class Initialized
+INFO - 2018-10-08 13:34:58 --> Config Class Initialized
+INFO - 2018-10-08 13:34:58 --> Output Class Initialized
+INFO - 2018-10-08 13:34:58 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:34:58 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:34:59 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:34:59 --> URI Class Initialized
+INFO - 2018-10-08 13:34:59 --> Router Class Initialized
+INFO - 2018-10-08 13:34:59 --> Output Class Initialized
+INFO - 2018-10-08 13:34:59 --> Security Class Initialized
+DEBUG - 2018-10-08 13:34:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:35:00 --> Input Class Initialized
+INFO - 2018-10-08 13:35:00 --> Language Class Initialized
+INFO - 2018-10-08 13:35:00 --> Security Class Initialized
+INFO - 2018-10-08 13:35:00 --> Hooks Class Initialized
+ERROR - 2018-10-08 13:35:00 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:35:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:35:00 --> Input Class Initialized
+INFO - 2018-10-08 13:35:00 --> Language Class Initialized
+ERROR - 2018-10-08 13:35:00 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:35:00 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:35:00 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:35:00 --> URI Class Initialized
+INFO - 2018-10-08 13:35:00 --> Router Class Initialized
+INFO - 2018-10-08 13:35:00 --> Output Class Initialized
+INFO - 2018-10-08 13:35:00 --> Security Class Initialized
+DEBUG - 2018-10-08 13:35:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:35:01 --> Input Class Initialized
+INFO - 2018-10-08 13:35:01 --> Language Class Initialized
+ERROR - 2018-10-08 13:35:01 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:35:05 --> Config Class Initialized
+INFO - 2018-10-08 13:35:05 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:35:05 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:35:05 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:35:05 --> URI Class Initialized
+INFO - 2018-10-08 13:35:05 --> Router Class Initialized
+INFO - 2018-10-08 13:35:05 --> Output Class Initialized
+INFO - 2018-10-08 13:35:05 --> Security Class Initialized
+DEBUG - 2018-10-08 13:35:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:35:05 --> Input Class Initialized
+INFO - 2018-10-08 13:35:05 --> Language Class Initialized
+INFO - 2018-10-08 13:35:05 --> Language Class Initialized
+INFO - 2018-10-08 13:35:05 --> Config Class Initialized
+INFO - 2018-10-08 13:35:05 --> Loader Class Initialized
+INFO - 2018-10-08 13:35:05 --> Controller Class Initialized
+ERROR - 2018-10-08 13:35:05 --> 404 Page Not Found: ../modules/admin/controllers/Package_setup/package_setup
+INFO - 2018-10-08 13:36:00 --> Config Class Initialized
+INFO - 2018-10-08 13:36:00 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:36:00 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:00 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:00 --> URI Class Initialized
+INFO - 2018-10-08 13:36:00 --> Router Class Initialized
+INFO - 2018-10-08 13:36:01 --> Output Class Initialized
+INFO - 2018-10-08 13:36:01 --> Security Class Initialized
+DEBUG - 2018-10-08 13:36:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:01 --> Input Class Initialized
+INFO - 2018-10-08 13:36:01 --> Language Class Initialized
+INFO - 2018-10-08 13:36:01 --> Language Class Initialized
+INFO - 2018-10-08 13:36:01 --> Config Class Initialized
+INFO - 2018-10-08 13:36:01 --> Loader Class Initialized
+INFO - 2018-10-08 13:36:01 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:36:01 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:36:01 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:36:01 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:36:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:36:01 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:36:01 --> Model Class Initialized
+INFO - 2018-10-08 13:36:01 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:36:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:36:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:36:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:36:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:36:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:36:01 --> Final output sent to browser
+DEBUG - 2018-10-08 13:36:02 --> Total execution time: 1.2541
+INFO - 2018-10-08 13:36:03 --> Config Class Initialized
+INFO - 2018-10-08 13:36:03 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:36:03 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:03 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:03 --> URI Class Initialized
+INFO - 2018-10-08 13:36:04 --> Router Class Initialized
+INFO - 2018-10-08 13:36:04 --> Output Class Initialized
+INFO - 2018-10-08 13:36:04 --> Config Class Initialized
+INFO - 2018-10-08 13:36:04 --> Config Class Initialized
+INFO - 2018-10-08 13:36:04 --> Security Class Initialized
+INFO - 2018-10-08 13:36:04 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:36:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:04 --> Input Class Initialized
+DEBUG - 2018-10-08 13:36:04 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:04 --> Hooks Class Initialized
+INFO - 2018-10-08 13:36:04 --> Language Class Initialized
+ERROR - 2018-10-08 13:36:04 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:36:05 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:05 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:05 --> URI Class Initialized
+INFO - 2018-10-08 13:36:05 --> Router Class Initialized
+INFO - 2018-10-08 13:36:05 --> Output Class Initialized
+INFO - 2018-10-08 13:36:05 --> Security Class Initialized
+DEBUG - 2018-10-08 13:36:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:05 --> Input Class Initialized
+INFO - 2018-10-08 13:36:05 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:05 --> Language Class Initialized
+ERROR - 2018-10-08 13:36:05 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:36:05 --> URI Class Initialized
+INFO - 2018-10-08 13:36:05 --> Router Class Initialized
+INFO - 2018-10-08 13:36:05 --> Output Class Initialized
+INFO - 2018-10-08 13:36:05 --> Security Class Initialized
+DEBUG - 2018-10-08 13:36:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:06 --> Input Class Initialized
+INFO - 2018-10-08 13:36:06 --> Language Class Initialized
+ERROR - 2018-10-08 13:36:06 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:36:54 --> Config Class Initialized
+INFO - 2018-10-08 13:36:54 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:36:54 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:54 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:54 --> URI Class Initialized
+INFO - 2018-10-08 13:36:54 --> Router Class Initialized
+INFO - 2018-10-08 13:36:54 --> Output Class Initialized
+INFO - 2018-10-08 13:36:54 --> Security Class Initialized
+DEBUG - 2018-10-08 13:36:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:54 --> Input Class Initialized
+INFO - 2018-10-08 13:36:54 --> Language Class Initialized
+INFO - 2018-10-08 13:36:54 --> Language Class Initialized
+INFO - 2018-10-08 13:36:54 --> Config Class Initialized
+INFO - 2018-10-08 13:36:54 --> Loader Class Initialized
+INFO - 2018-10-08 13:36:54 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:36:54 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:36:54 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:36:54 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:36:55 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:36:55 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:36:55 --> Model Class Initialized
+INFO - 2018-10-08 13:36:55 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:36:55 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:36:55 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:36:55 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:36:55 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:36:55 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:36:55 --> Final output sent to browser
+DEBUG - 2018-10-08 13:36:55 --> Total execution time: 1.4571
+INFO - 2018-10-08 13:36:57 --> Config Class Initialized
+INFO - 2018-10-08 13:36:57 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:36:57 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:57 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:57 --> URI Class Initialized
+INFO - 2018-10-08 13:36:57 --> Router Class Initialized
+INFO - 2018-10-08 13:36:57 --> Output Class Initialized
+INFO - 2018-10-08 13:36:57 --> Security Class Initialized
+DEBUG - 2018-10-08 13:36:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:57 --> Config Class Initialized
+INFO - 2018-10-08 13:36:57 --> Config Class Initialized
+INFO - 2018-10-08 13:36:57 --> Hooks Class Initialized
+INFO - 2018-10-08 13:36:57 --> Hooks Class Initialized
+INFO - 2018-10-08 13:36:57 --> Input Class Initialized
+DEBUG - 2018-10-08 13:36:57 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:58 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:58 --> URI Class Initialized
+INFO - 2018-10-08 13:36:58 --> Router Class Initialized
+INFO - 2018-10-08 13:36:58 --> Output Class Initialized
+INFO - 2018-10-08 13:36:59 --> Security Class Initialized
+DEBUG - 2018-10-08 13:36:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:59 --> Input Class Initialized
+INFO - 2018-10-08 13:36:59 --> Language Class Initialized
+ERROR - 2018-10-08 13:36:59 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:36:59 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:36:59 --> Language Class Initialized
+ERROR - 2018-10-08 13:36:59 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:36:59 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:36:59 --> URI Class Initialized
+INFO - 2018-10-08 13:36:59 --> Router Class Initialized
+INFO - 2018-10-08 13:36:59 --> Output Class Initialized
+INFO - 2018-10-08 13:36:59 --> Security Class Initialized
+DEBUG - 2018-10-08 13:36:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:36:59 --> Input Class Initialized
+INFO - 2018-10-08 13:36:59 --> Language Class Initialized
+ERROR - 2018-10-08 13:37:00 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:37:31 --> Config Class Initialized
+INFO - 2018-10-08 13:37:31 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:37:31 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:37:31 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:37:31 --> URI Class Initialized
+INFO - 2018-10-08 13:37:31 --> Router Class Initialized
+INFO - 2018-10-08 13:37:31 --> Output Class Initialized
+INFO - 2018-10-08 13:37:31 --> Security Class Initialized
+DEBUG - 2018-10-08 13:37:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:37:31 --> Input Class Initialized
+INFO - 2018-10-08 13:37:31 --> Language Class Initialized
+INFO - 2018-10-08 13:37:31 --> Language Class Initialized
+INFO - 2018-10-08 13:37:31 --> Config Class Initialized
+INFO - 2018-10-08 13:37:31 --> Loader Class Initialized
+INFO - 2018-10-08 13:37:31 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:37:31 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:37:31 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:37:31 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:37:32 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:37:32 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:37:32 --> Model Class Initialized
+INFO - 2018-10-08 13:37:32 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:37:32 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:37:32 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:37:32 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:37:32 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:37:32 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:37:32 --> Final output sent to browser
+DEBUG - 2018-10-08 13:37:32 --> Total execution time: 1.1521
+INFO - 2018-10-08 13:37:33 --> Config Class Initialized
+INFO - 2018-10-08 13:37:34 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:37:34 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:37:34 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:37:34 --> Config Class Initialized
+INFO - 2018-10-08 13:37:34 --> URI Class Initialized
+INFO - 2018-10-08 13:37:34 --> Config Class Initialized
+INFO - 2018-10-08 13:37:34 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:37:34 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:37:34 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:37:35 --> URI Class Initialized
+INFO - 2018-10-08 13:37:35 --> Router Class Initialized
+INFO - 2018-10-08 13:37:35 --> Output Class Initialized
+INFO - 2018-10-08 13:37:35 --> Security Class Initialized
+DEBUG - 2018-10-08 13:37:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:37:36 --> Input Class Initialized
+INFO - 2018-10-08 13:37:36 --> Language Class Initialized
+INFO - 2018-10-08 13:37:36 --> Router Class Initialized
+INFO - 2018-10-08 13:37:36 --> Hooks Class Initialized
+ERROR - 2018-10-08 13:37:36 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:37:36 --> Output Class Initialized
+INFO - 2018-10-08 13:37:36 --> Security Class Initialized
+DEBUG - 2018-10-08 13:37:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:37:36 --> Input Class Initialized
+INFO - 2018-10-08 13:37:36 --> Language Class Initialized
+ERROR - 2018-10-08 13:37:36 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:37:36 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:37:36 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:37:36 --> URI Class Initialized
+INFO - 2018-10-08 13:37:36 --> Router Class Initialized
+INFO - 2018-10-08 13:37:37 --> Output Class Initialized
+INFO - 2018-10-08 13:37:37 --> Security Class Initialized
+DEBUG - 2018-10-08 13:37:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:37:37 --> Input Class Initialized
+INFO - 2018-10-08 13:37:37 --> Language Class Initialized
+ERROR - 2018-10-08 13:37:37 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:38:01 --> Config Class Initialized
+INFO - 2018-10-08 13:38:01 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:38:01 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:01 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:01 --> URI Class Initialized
+INFO - 2018-10-08 13:38:01 --> Router Class Initialized
+INFO - 2018-10-08 13:38:01 --> Output Class Initialized
+INFO - 2018-10-08 13:38:01 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:02 --> Input Class Initialized
+INFO - 2018-10-08 13:38:02 --> Language Class Initialized
+INFO - 2018-10-08 13:38:02 --> Language Class Initialized
+INFO - 2018-10-08 13:38:02 --> Config Class Initialized
+INFO - 2018-10-08 13:38:02 --> Loader Class Initialized
+INFO - 2018-10-08 13:38:02 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:38:02 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:38:02 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:38:02 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:38:02 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:38:02 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:38:02 --> Model Class Initialized
+INFO - 2018-10-08 13:38:02 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:38:02 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:38:02 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:38:02 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:38:02 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:38:02 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:38:02 --> Final output sent to browser
+DEBUG - 2018-10-08 13:38:03 --> Total execution time: 1.1921
+INFO - 2018-10-08 13:38:04 --> Config Class Initialized
+INFO - 2018-10-08 13:38:04 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:38:04 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:04 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:04 --> URI Class Initialized
+INFO - 2018-10-08 13:38:04 --> Config Class Initialized
+INFO - 2018-10-08 13:38:04 --> Hooks Class Initialized
+INFO - 2018-10-08 13:38:04 --> Router Class Initialized
+INFO - 2018-10-08 13:38:04 --> Config Class Initialized
+DEBUG - 2018-10-08 13:38:05 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:05 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:05 --> URI Class Initialized
+INFO - 2018-10-08 13:38:05 --> Router Class Initialized
+INFO - 2018-10-08 13:38:05 --> Output Class Initialized
+INFO - 2018-10-08 13:38:05 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:06 --> Input Class Initialized
+INFO - 2018-10-08 13:38:06 --> Language Class Initialized
+ERROR - 2018-10-08 13:38:06 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:38:06 --> Output Class Initialized
+INFO - 2018-10-08 13:38:06 --> Hooks Class Initialized
+INFO - 2018-10-08 13:38:06 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:06 --> Input Class Initialized
+INFO - 2018-10-08 13:38:06 --> Language Class Initialized
+DEBUG - 2018-10-08 13:38:06 --> UTF-8 Support Enabled
+ERROR - 2018-10-08 13:38:06 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:38:06 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:06 --> Config Class Initialized
+INFO - 2018-10-08 13:38:06 --> Hooks Class Initialized
+INFO - 2018-10-08 13:38:06 --> URI Class Initialized
+DEBUG - 2018-10-08 13:38:06 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:06 --> Router Class Initialized
+INFO - 2018-10-08 13:38:06 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:06 --> Output Class Initialized
+INFO - 2018-10-08 13:38:06 --> URI Class Initialized
+INFO - 2018-10-08 13:38:06 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:06 --> Router Class Initialized
+INFO - 2018-10-08 13:38:06 --> Input Class Initialized
+INFO - 2018-10-08 13:38:06 --> Output Class Initialized
+INFO - 2018-10-08 13:38:06 --> Language Class Initialized
+INFO - 2018-10-08 13:38:06 --> Security Class Initialized
+ERROR - 2018-10-08 13:38:06 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:38:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:06 --> Input Class Initialized
+INFO - 2018-10-08 13:38:06 --> Language Class Initialized
+INFO - 2018-10-08 13:38:07 --> Language Class Initialized
+INFO - 2018-10-08 13:38:07 --> Config Class Initialized
+INFO - 2018-10-08 13:38:07 --> Loader Class Initialized
+INFO - 2018-10-08 13:38:07 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:38:07 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:38:07 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:38:07 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:38:07 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:38:07 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:38:07 --> Model Class Initialized
+INFO - 2018-10-08 13:38:07 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:38:07 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:38:07 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:38:07 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:38:07 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:38:07 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:38:07 --> Final output sent to browser
+DEBUG - 2018-10-08 13:38:07 --> Total execution time: 1.2121
+INFO - 2018-10-08 13:38:09 --> Config Class Initialized
+INFO - 2018-10-08 13:38:09 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:38:09 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:09 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:09 --> URI Class Initialized
+INFO - 2018-10-08 13:38:09 --> Router Class Initialized
+INFO - 2018-10-08 13:38:09 --> Output Class Initialized
+INFO - 2018-10-08 13:38:09 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:09 --> Input Class Initialized
+INFO - 2018-10-08 13:38:09 --> Language Class Initialized
+ERROR - 2018-10-08 13:38:09 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:38:10 --> Config Class Initialized
+INFO - 2018-10-08 13:38:10 --> Config Class Initialized
+INFO - 2018-10-08 13:38:10 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:38:10 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:10 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:10 --> URI Class Initialized
+INFO - 2018-10-08 13:38:10 --> Router Class Initialized
+INFO - 2018-10-08 13:38:10 --> Output Class Initialized
+INFO - 2018-10-08 13:38:10 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:11 --> Input Class Initialized
+INFO - 2018-10-08 13:38:11 --> Language Class Initialized
+INFO - 2018-10-08 13:38:11 --> Hooks Class Initialized
+ERROR - 2018-10-08 13:38:11 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:38:11 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:11 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:11 --> URI Class Initialized
+INFO - 2018-10-08 13:38:11 --> Router Class Initialized
+INFO - 2018-10-08 13:38:12 --> Output Class Initialized
+INFO - 2018-10-08 13:38:12 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:12 --> Input Class Initialized
+INFO - 2018-10-08 13:38:12 --> Language Class Initialized
+ERROR - 2018-10-08 13:38:12 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:38:13 --> Config Class Initialized
+INFO - 2018-10-08 13:38:13 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:38:13 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:13 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:13 --> URI Class Initialized
+INFO - 2018-10-08 13:38:14 --> Router Class Initialized
+INFO - 2018-10-08 13:38:14 --> Output Class Initialized
+INFO - 2018-10-08 13:38:14 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:14 --> Input Class Initialized
+INFO - 2018-10-08 13:38:14 --> Language Class Initialized
+INFO - 2018-10-08 13:38:14 --> Language Class Initialized
+INFO - 2018-10-08 13:38:14 --> Config Class Initialized
+INFO - 2018-10-08 13:38:14 --> Loader Class Initialized
+INFO - 2018-10-08 13:38:14 --> Controller Class Initialized
+ERROR - 2018-10-08 13:38:14 --> 404 Page Not Found: ../modules/admin/controllers/Package_setup/package_setup
+INFO - 2018-10-08 13:38:29 --> Config Class Initialized
+INFO - 2018-10-08 13:38:29 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:38:29 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:38:29 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:38:29 --> URI Class Initialized
+INFO - 2018-10-08 13:38:29 --> Router Class Initialized
+INFO - 2018-10-08 13:38:29 --> Output Class Initialized
+INFO - 2018-10-08 13:38:29 --> Security Class Initialized
+DEBUG - 2018-10-08 13:38:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:38:29 --> Input Class Initialized
+INFO - 2018-10-08 13:38:29 --> Language Class Initialized
+INFO - 2018-10-08 13:38:29 --> Language Class Initialized
+INFO - 2018-10-08 13:38:29 --> Config Class Initialized
+INFO - 2018-10-08 13:38:29 --> Loader Class Initialized
+INFO - 2018-10-08 13:38:29 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:38:30 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:38:30 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:38:30 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:38:30 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:38:30 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:38:30 --> Model Class Initialized
+INFO - 2018-10-08 13:38:30 --> Database Driver Class Initialized
+ERROR - 2018-10-08 13:38:30 --> Severity: Error --> Call to undefined method Package_setup_model::edit_package() E:\xampp\htdocs\webpackage\application\modules\Admin\controllers\Package_setup.php 52
+INFO - 2018-10-08 13:40:31 --> Config Class Initialized
+INFO - 2018-10-08 13:40:31 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:40:31 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:31 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:31 --> URI Class Initialized
+INFO - 2018-10-08 13:40:32 --> Router Class Initialized
+INFO - 2018-10-08 13:40:32 --> Output Class Initialized
+INFO - 2018-10-08 13:40:32 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:32 --> Input Class Initialized
+INFO - 2018-10-08 13:40:32 --> Language Class Initialized
+INFO - 2018-10-08 13:40:32 --> Language Class Initialized
+INFO - 2018-10-08 13:40:32 --> Config Class Initialized
+INFO - 2018-10-08 13:40:32 --> Loader Class Initialized
+INFO - 2018-10-08 13:40:32 --> Controller Class Initialized
+ERROR - 2018-10-08 13:40:32 --> 404 Page Not Found: ../modules/admin/controllers/Package_setup/package_setup
+INFO - 2018-10-08 13:40:37 --> Config Class Initialized
+INFO - 2018-10-08 13:40:37 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:40:37 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:37 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:37 --> URI Class Initialized
+INFO - 2018-10-08 13:40:37 --> Router Class Initialized
+INFO - 2018-10-08 13:40:37 --> Output Class Initialized
+INFO - 2018-10-08 13:40:37 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:37 --> Input Class Initialized
+INFO - 2018-10-08 13:40:37 --> Language Class Initialized
+INFO - 2018-10-08 13:40:37 --> Language Class Initialized
+INFO - 2018-10-08 13:40:37 --> Config Class Initialized
+INFO - 2018-10-08 13:40:37 --> Loader Class Initialized
+INFO - 2018-10-08 13:40:37 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:40:37 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:40:37 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:40:38 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:40:38 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:40:38 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:40:38 --> Model Class Initialized
+INFO - 2018-10-08 13:40:38 --> Database Driver Class Initialized
+INFO - 2018-10-08 13:40:38 --> Config Class Initialized
+INFO - 2018-10-08 13:40:38 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:40:38 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:38 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:38 --> URI Class Initialized
+INFO - 2018-10-08 13:40:38 --> Router Class Initialized
+INFO - 2018-10-08 13:40:38 --> Output Class Initialized
+INFO - 2018-10-08 13:40:38 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:38 --> Input Class Initialized
+INFO - 2018-10-08 13:40:38 --> Language Class Initialized
+INFO - 2018-10-08 13:40:38 --> Language Class Initialized
+INFO - 2018-10-08 13:40:38 --> Config Class Initialized
+INFO - 2018-10-08 13:40:38 --> Loader Class Initialized
+INFO - 2018-10-08 13:40:38 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:40:38 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:40:38 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:40:39 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:40:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:40:39 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:40:39 --> Model Class Initialized
+INFO - 2018-10-08 13:40:39 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:40:39 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:40:39 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:40:39 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:40:39 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:40:39 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:40:39 --> Final output sent to browser
+DEBUG - 2018-10-08 13:40:39 --> Total execution time: 1.1121
+INFO - 2018-10-08 13:40:40 --> Config Class Initialized
+INFO - 2018-10-08 13:40:40 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:40:41 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:41 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:41 --> URI Class Initialized
+INFO - 2018-10-08 13:40:41 --> Router Class Initialized
+INFO - 2018-10-08 13:40:41 --> Config Class Initialized
+INFO - 2018-10-08 13:40:41 --> Config Class Initialized
+INFO - 2018-10-08 13:40:41 --> Hooks Class Initialized
+INFO - 2018-10-08 13:40:41 --> Output Class Initialized
+DEBUG - 2018-10-08 13:40:41 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:41 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:42 --> URI Class Initialized
+INFO - 2018-10-08 13:40:42 --> Router Class Initialized
+INFO - 2018-10-08 13:40:42 --> Output Class Initialized
+INFO - 2018-10-08 13:40:42 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:42 --> Input Class Initialized
+INFO - 2018-10-08 13:40:43 --> Language Class Initialized
+INFO - 2018-10-08 13:40:43 --> Hooks Class Initialized
+ERROR - 2018-10-08 13:40:43 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:40:43 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:43 --> Input Class Initialized
+INFO - 2018-10-08 13:40:43 --> Language Class Initialized
+ERROR - 2018-10-08 13:40:43 --> 404 Page Not Found: /index
+DEBUG - 2018-10-08 13:40:43 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:43 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:43 --> URI Class Initialized
+INFO - 2018-10-08 13:40:43 --> Router Class Initialized
+INFO - 2018-10-08 13:40:43 --> Output Class Initialized
+INFO - 2018-10-08 13:40:43 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:43 --> Input Class Initialized
+INFO - 2018-10-08 13:40:43 --> Language Class Initialized
+ERROR - 2018-10-08 13:40:44 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:40:50 --> Config Class Initialized
+INFO - 2018-10-08 13:40:50 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:40:50 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:50 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:50 --> URI Class Initialized
+INFO - 2018-10-08 13:40:50 --> Router Class Initialized
+INFO - 2018-10-08 13:40:50 --> Output Class Initialized
+INFO - 2018-10-08 13:40:50 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:50 --> Input Class Initialized
+INFO - 2018-10-08 13:40:50 --> Language Class Initialized
+INFO - 2018-10-08 13:40:50 --> Language Class Initialized
+INFO - 2018-10-08 13:40:50 --> Config Class Initialized
+INFO - 2018-10-08 13:40:50 --> Loader Class Initialized
+INFO - 2018-10-08 13:40:50 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:40:50 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:40:50 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:40:50 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:40:51 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:40:51 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:40:51 --> Model Class Initialized
+INFO - 2018-10-08 13:40:51 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:40:51 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:40:51 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:40:51 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:40:51 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:40:51 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:40:51 --> Final output sent to browser
+DEBUG - 2018-10-08 13:40:51 --> Total execution time: 1.1411
+INFO - 2018-10-08 13:40:52 --> Config Class Initialized
+INFO - 2018-10-08 13:40:53 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:40:53 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:53 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:53 --> Config Class Initialized
+INFO - 2018-10-08 13:40:53 --> Config Class Initialized
+INFO - 2018-10-08 13:40:53 --> Hooks Class Initialized
+INFO - 2018-10-08 13:40:53 --> Hooks Class Initialized
+INFO - 2018-10-08 13:40:53 --> URI Class Initialized
+DEBUG - 2018-10-08 13:40:54 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:54 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:54 --> URI Class Initialized
+INFO - 2018-10-08 13:40:54 --> Router Class Initialized
+INFO - 2018-10-08 13:40:54 --> Output Class Initialized
+DEBUG - 2018-10-08 13:40:54 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:55 --> Security Class Initialized
+INFO - 2018-10-08 13:40:55 --> Utf8 Class Initialized
+DEBUG - 2018-10-08 13:40:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:55 --> URI Class Initialized
+INFO - 2018-10-08 13:40:55 --> Router Class Initialized
+INFO - 2018-10-08 13:40:55 --> Output Class Initialized
+INFO - 2018-10-08 13:40:55 --> Security Class Initialized
+INFO - 2018-10-08 13:40:55 --> Router Class Initialized
+INFO - 2018-10-08 13:40:55 --> Output Class Initialized
+DEBUG - 2018-10-08 13:40:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:55 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:55 --> Input Class Initialized
+INFO - 2018-10-08 13:40:55 --> Language Class Initialized
+ERROR - 2018-10-08 13:40:55 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:40:55 --> Input Class Initialized
+INFO - 2018-10-08 13:40:55 --> Input Class Initialized
+INFO - 2018-10-08 13:40:55 --> Language Class Initialized
+ERROR - 2018-10-08 13:40:55 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:40:55 --> Language Class Initialized
+ERROR - 2018-10-08 13:40:56 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:40:59 --> Config Class Initialized
+INFO - 2018-10-08 13:40:59 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:40:59 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:40:59 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:40:59 --> URI Class Initialized
+INFO - 2018-10-08 13:40:59 --> Router Class Initialized
+INFO - 2018-10-08 13:40:59 --> Output Class Initialized
+INFO - 2018-10-08 13:40:59 --> Security Class Initialized
+DEBUG - 2018-10-08 13:40:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:40:59 --> Input Class Initialized
+INFO - 2018-10-08 13:40:59 --> Language Class Initialized
+INFO - 2018-10-08 13:40:59 --> Language Class Initialized
+INFO - 2018-10-08 13:40:59 --> Config Class Initialized
+INFO - 2018-10-08 13:40:59 --> Loader Class Initialized
+INFO - 2018-10-08 13:40:59 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:40:59 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:40:59 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:40:59 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:41:00 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:41:00 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:41:00 --> Model Class Initialized
+INFO - 2018-10-08 13:41:00 --> Database Driver Class Initialized
+INFO - 2018-10-08 13:41:00 --> Config Class Initialized
+INFO - 2018-10-08 13:41:00 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:41:00 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:41:00 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:41:00 --> URI Class Initialized
+INFO - 2018-10-08 13:41:00 --> Router Class Initialized
+INFO - 2018-10-08 13:41:00 --> Output Class Initialized
+INFO - 2018-10-08 13:41:00 --> Security Class Initialized
+DEBUG - 2018-10-08 13:41:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:41:00 --> Input Class Initialized
+INFO - 2018-10-08 13:41:00 --> Language Class Initialized
+INFO - 2018-10-08 13:41:00 --> Language Class Initialized
+INFO - 2018-10-08 13:41:00 --> Config Class Initialized
+INFO - 2018-10-08 13:41:00 --> Loader Class Initialized
+INFO - 2018-10-08 13:41:00 --> Controller Class Initialized
+DEBUG - 2018-10-08 13:41:00 --> Package_setup MX_Controller Initialized
+INFO - 2018-10-08 13:41:00 --> Helper loaded: form_helper
+INFO - 2018-10-08 13:41:00 --> Helper loaded: url_helper
+INFO - 2018-10-08 13:41:01 --> Session: Class initialized using 'files' driver.
+INFO - 2018-10-08 13:41:01 --> Form Validation Class Initialized
+INFO - 2018-10-08 13:41:01 --> Model Class Initialized
+INFO - 2018-10-08 13:41:01 --> Database Driver Class Initialized
+DEBUG - 2018-10-08 13:41:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/header.php
+DEBUG - 2018-10-08 13:41:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/headernav.php
+DEBUG - 2018-10-08 13:41:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/sidebar.php
+DEBUG - 2018-10-08 13:41:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/view.php
+DEBUG - 2018-10-08 13:41:01 --> File loaded: E:\xampp\htdocs\webpackage\application\modules/admin/views/templates/footer.php
+INFO - 2018-10-08 13:41:01 --> Final output sent to browser
+DEBUG - 2018-10-08 13:41:01 --> Total execution time: 1.1151
+INFO - 2018-10-08 13:41:02 --> Config Class Initialized
+INFO - 2018-10-08 13:41:03 --> Hooks Class Initialized
+DEBUG - 2018-10-08 13:41:03 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:41:03 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:41:03 --> URI Class Initialized
+INFO - 2018-10-08 13:41:03 --> Config Class Initialized
+INFO - 2018-10-08 13:41:03 --> Config Class Initialized
+INFO - 2018-10-08 13:41:03 --> Hooks Class Initialized
+INFO - 2018-10-08 13:41:03 --> Hooks Class Initialized
+INFO - 2018-10-08 13:41:03 --> Router Class Initialized
+DEBUG - 2018-10-08 13:41:03 --> UTF-8 Support Enabled
+DEBUG - 2018-10-08 13:41:03 --> UTF-8 Support Enabled
+INFO - 2018-10-08 13:41:03 --> Output Class Initialized
+INFO - 2018-10-08 13:41:04 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:41:04 --> URI Class Initialized
+INFO - 2018-10-08 13:41:04 --> Router Class Initialized
+INFO - 2018-10-08 13:41:04 --> Output Class Initialized
+INFO - 2018-10-08 13:41:04 --> Security Class Initialized
+DEBUG - 2018-10-08 13:41:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:41:04 --> Input Class Initialized
+INFO - 2018-10-08 13:41:04 --> Language Class Initialized
+ERROR - 2018-10-08 13:41:04 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:41:04 --> Security Class Initialized
+DEBUG - 2018-10-08 13:41:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:41:05 --> Input Class Initialized
+INFO - 2018-10-08 13:41:05 --> Language Class Initialized
+ERROR - 2018-10-08 13:41:05 --> 404 Page Not Found: /index
+INFO - 2018-10-08 13:41:05 --> Utf8 Class Initialized
+INFO - 2018-10-08 13:41:05 --> URI Class Initialized
+INFO - 2018-10-08 13:41:05 --> Router Class Initialized
+INFO - 2018-10-08 13:41:05 --> Output Class Initialized
+INFO - 2018-10-08 13:41:05 --> Security Class Initialized
+DEBUG - 2018-10-08 13:41:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-10-08 13:41:05 --> Input Class Initialized
+INFO - 2018-10-08 13:41:05 --> Language Class Initialized
+ERROR - 2018-10-08 13:41:05 --> 404 Page Not Found: /index
