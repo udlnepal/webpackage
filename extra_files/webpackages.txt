@@ -12,8 +12,8 @@ Package_features
 Package_price
 package_offer_price
 
-user_inquiry:
-id
+package_book:
+booking_id
 pack_id
 name
 phone

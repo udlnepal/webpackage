@@ -9,7 +9,7 @@
 			<h6 class="font-italic font-weight-light text-info">Best for <?php echo $ps['best_for'] ?></h6>
 			<h3><?php echo 'Rs. '.$ps['package_offer_price'].'/-' ?></h3>
 			<h6 class="strike-through"><?php echo 'Rs. '.$ps['package_price'].'/-' ?></h6>
-			<a href="<?php echo base_url('welcome/select_package/'.$ps['package_id']); ?>" class="btn btn-success">Book Now</a>
+			<a href="<?php echo base_url('package/book/'.$ps['package_id']); ?>" class="btn btn-success">Book Now</a>
 			</div>
 			<p>
 				<?php echo $ps['package_features']?>
