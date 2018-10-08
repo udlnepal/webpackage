@@ -30,6 +30,12 @@ margin-bottom: 20px;
 	display: none !important;
 }
 .box-body{
-	    min-height: 410px;
+	    min-height: 480px;
     padding-top: 30px;
+}
+.mar-25-btm{
+	margin-bottom: 25px;
+}
+h6.font-italic.font-weight-light.text-info{
+	font-size:0.75rem !important;
 }

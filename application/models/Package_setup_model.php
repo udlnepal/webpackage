@@ -15,6 +15,7 @@ class Package_setup_model extends CI_Model {
     		'package_features'=>$this->input->post('package_features'),
     		'package_price'=>$this->input->post('package_price'),
     		'package_offer_price'=>$this->input->post('package_offer_price'),
+            'best_for'=>$this->input->post('best_for'),
     	);
     		if($package_id==0){
     			//echo "heere";exit;

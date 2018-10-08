@@ -56,6 +56,12 @@
                                             <input type="text" class="form-control" name="package_offer_price" id="package_offer_price" placeholder="Offer Price">
                                         </div>
                                     </div>
+                                       <div class="form-group row">
+                                        <label for="best_for" class="col-sm-3 text-left control-label col-form-label">Best For</label>
+                                        <div class="col-sm-9">
+                                            <input type="text" class="form-control" name="best_for" id="best_for" placeholder="Best For">
+                                        </div>
+                                    </div>
                                     
                                     
                                   

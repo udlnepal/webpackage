@@ -27,6 +27,7 @@ public function add(){
 	$this->form_validation->set_rules('package_name','Package Name', 'required');
 	$this->form_validation->set_rules('package_features','Package Features','required');
 	$this->form_validation->set_rules('package_offer_price','Price is required(At Least One)', 'required');
+	$this->form_validation->set_rules('best_for','Best_for', 'required');
 
 	if($this->form_validation->run()===FALSE){		
 		$this->display('package_setup',$data);
